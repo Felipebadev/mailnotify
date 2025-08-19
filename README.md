@@ -19,6 +19,7 @@ Retentativa de envio caso o primeiro falhe
 Reset de senha (e-mail padrão)
 
 E-mail customizado (assunto + corpo definidos pelo usuário)
+
 ✅ Registro de logs — cada envio é salvo no banco (quem enviou, para quem, assunto, status, erro, data/hora).
 
 ✅ Retentativa automática (caso o servidor SMTP falhe).
