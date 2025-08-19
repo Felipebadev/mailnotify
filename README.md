@@ -4,8 +4,11 @@ O MailNotify é uma API REST que serve como um sistema de envio de notificaçõe
 Ele pode ser usado, por exemplo, em qualquer aplicação que precise disparar e-mails de forma segura, como:
 
 Recuperação de senha (reset password)
+
 Envio de mensagens personalizadas (boas-vindas, avisos, notificações do sistema)
+
 Histórico de e-mails enviados para auditoria
+
 Retentativa de envio caso o primeiro falhe
 
 ⚙️ O que o sistema oferece?
