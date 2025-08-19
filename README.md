@@ -7,6 +7,7 @@ Recuperação de senha (reset password)
 Envio de mensagens personalizadas (boas-vindas, avisos, notificações do sistema)
 Histórico de e-mails enviados para auditoria
 Retentativa de envio caso o primeiro falhe
+
 ⚙️ O que o sistema oferece?
 
 ✅ Autenticação com JWT — só usuários logados conseguem enviar e-mails.
