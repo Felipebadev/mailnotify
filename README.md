@@ -10,14 +10,18 @@ Retentativa de envio caso o primeiro falhe
 ⚙️ O que o sistema oferece?
 
 ✅ Autenticação com JWT — só usuários logados conseguem enviar e-mails.
+
 ✅ Cadastro e login de usuários (com papéis ROLE_USER e ROLE_ADMIN).
+
 ✅ Envio de e-mails:
 
 Reset de senha (e-mail padrão)
 
 E-mail customizado (assunto + corpo definidos pelo usuário)
 ✅ Registro de logs — cada envio é salvo no banco (quem enviou, para quem, assunto, status, erro, data/hora).
+
 ✅ Retentativa automática (caso o servidor SMTP falhe).
+
 ✅ Controle de permissões:
 
 Usuário comum → pode enviar e-mails
